@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1541bd5f-4de1-4bdb-9686-a0517de71023" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="djangoBlog@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="djangoBlog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="djangoBlog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="djangoblog: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dXZDTFraBxWaxCWplCn4WkpRfV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/myblog" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\C\Desktop\myblog\myblog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\C\Desktop\myblog" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="myblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myblog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myblog/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="myblog" type="Python.DjangoServer" factoryName="Django server">
+      <module name="myblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1541bd5f-4de1-4bdb-9686-a0517de71023" name="默认更改列表" comment="" />
+      <created>1592573278443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592573278443</updated>
+      <workItem from="1592573280652" duration="10030000" />
+      <workItem from="1592626268633" duration="6997000" />
+      <workItem from="1592633789160" duration="5932000" />
+      <workItem from="1592640297405" duration="6402000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="111" key="#Inspections" timestamp="1592628667224">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="722" y="111" key="#Inspections/0.40.1536.824@0.40.1536.824" timestamp="1592628667224" />
+    <state x="644" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592575396467">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="644" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1536.824@0.40.1536.824" timestamp="1592575396467" />
+    <state x="882" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592635391353">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="882" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1536.824@0.40.1536.824" timestamp="1592635391353" />
+    <state x="933" y="208" key="FileChooserDialogImpl" timestamp="1592634353061">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="933" y="208" key="FileChooserDialogImpl/0.40.1536.824@0.40.1536.824" timestamp="1592634353061" />
+    <state width="725" height="208" key="GridCell.Tab.0.bottom" timestamp="1592633762345">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="725" height="208" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1592633762345" />
+    <state width="725" height="208" key="GridCell.Tab.0.center" timestamp="1592633762345">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="725" height="208" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1592633762345" />
+    <state width="725" height="208" key="GridCell.Tab.0.left" timestamp="1592633762345">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="725" height="208" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1592633762345" />
+    <state width="725" height="208" key="GridCell.Tab.0.right" timestamp="1592633762345">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="725" height="208" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1592633762345" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1592575433586">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.40.1536.824@0.40.1536.824" timestamp="1592575433586" />
+    <state width="527" height="446" key="SwitcherDM" timestamp="1592632901687">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="527" height="446" key="SwitcherDM/0.40.1536.824@0.40.1536.824" timestamp="1592632901687" />
+    <state x="861" y="133" width="582" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1592635440538">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="861" y="133" width="582" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.40.1536.824@0.40.1536.824" timestamp="1592635440538" />
+    <state x="423" y="110" width="582" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1592635043798">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="423" y="110" width="582" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.40.1536.824@0.40.1536.824" timestamp="1592635043798" />
+    <state x="1214" y="110" width="532" height="585" key="dock-window-1" timestamp="1592634082111">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="1214" y="110" width="532" height="585" key="dock-window-1/0.40.1536.824@0.40.1536.824" timestamp="1592634082111" />
+    <state x="836" y="54" width="632" height="801" key="find.popup" timestamp="1592574854048">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="836" y="54" width="632" height="801" key="find.popup/0.40.1536.824@0.40.1536.824" timestamp="1592574854048" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/myblog$manage.coverage" NAME="manage Coverage Results" MODIFIED="1592626918144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
